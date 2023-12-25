@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65893a7920bd7a8f69f6c61d"
+  },
+  "orderNumber": "ORD001",
+  "customerName": "John Doe",
+  "product": "Product A",
+  "quantity": 5,
+  "orderDate": {
+    "$date": "2023-01-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65893b1c20bd7a8f69f6c61e"
+  },
+  "orderNumber": "ORD002",
+  "customerName": "Jane Smith",
+  "product": "Product B",
+  "quantity": 2,
+  "orderDate": {
+    "$date": "2023-01-02T12:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65893b4020bd7a8f69f6c61f"
+  },
+  "orderNumber": "ORD003",
+  "customerName": "Bob Johnson",
+  "product": "Product C",
+  "quantity": 3,
+  "orderDate": {
+    "$date": "2023-01-03T15:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65893b5720bd7a8f69f6c620"
+  },
+  "orderNumber": "ORD004",
+  "customerName": "Alice Williams",
+  "product": "Product A",
+  "quantity": 1,
+  "orderDate": {
+    "$date": "2023-01-04T09:15:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65893b6f20bd7a8f69f6c621"
+  },
+  "orderNumber": "ORD005",
+  "customerName": "Charlie Brown",
+  "product": "Product B",
+  "quantity": 4,
+  "orderDate": {
+    "$date": "2023-01-05T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65893b8e20bd7a8f69f6c622"
+  },
+  "orderNumber": "ORD006",
+  "customerName": "Eva Davis",
+  "product": "Product C",
+  "quantity": 2,
+  "orderDate": {
+    "$date": "2023-01-06T11:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65894def20bd7a8f69f6c623"
+  },
+  "orderNumber": "ORD009",
+  "customerName": "Ivan Rodriguez",
+  "product": "Product C",
+  "quantity": 1,
+  "orderDate": {
+    "$date": "2023-01-09T10:45:00.000Z"
+  }
+}]
